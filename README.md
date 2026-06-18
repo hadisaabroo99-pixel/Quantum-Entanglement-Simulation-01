@@ -95,6 +95,23 @@ pip install -r requirements.txt
 ```
 
 ---
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+python src/main_figure.py
+```
+
+## Testing
+
+```bash
+pytest tests/test_bell_states.py
+```
 
 ## Author
 
